@@ -11,3 +11,4 @@ function removeDuplicates(arr){
 const arr = [2,53,32,54,2,53,6,7,7];
 
 console.log(removeDuplicates(arr));
+
